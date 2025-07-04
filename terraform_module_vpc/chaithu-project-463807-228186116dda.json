@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chaithu-project-463807",
+  "private_key_id": "228186116dda412242f874a8c456d652a2c9f504",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2bg9nYsSPl6oX\no0wsXgZMDG2bxQp/ekPRavWhNZEJZs2bqF1fArBgv1EqgaUuze9h6r7GEoDt4L7y\nD3gBG7zK3afz/PQwy52OdX0RB84c/jINgNHbxmogsD3oKI+aZWuavgETzTHO074w\nn4s4N2fjlQRAkRiRDGG3uzQGTcSMrsxcx7SaLKVh0wAoPGf8LL/DydVqPdsIpCps\nRoWN7krIrcIRWRhQvyRGw1zyr3fsrgBGKrMD/xqXAMdlwepTvfR+CYvLyNM/an8n\nLy/jnU3Zcd2InsVEhEr66pDX3yzOCYVE+DeyGKsAKRBy585NSCXF+9sO1JaReA8e\nvWFsmVJjAgMBAAECggEAEUg25FvqdBHxlqCtKCzWGuE4hv+xIWdzQkUINPfun/3h\nr4PRKJ2IGPo21biHbforWdLTtM7u8NoQLL1DaJN4nJ1H+mi1t2OqruK5cOIU6BE6\nq6XO+6t9xU/85V/mTsGZ4oRqdLZFKCtOAqwyk6ZIDLrCtt0n/yG1piKxaIF4g70o\nTcJRJw4hhU1Fl+/KCYi4hzSlm4MFfev1M2cvN9RCKm/9g6wageEG9rGo7gBAcLAK\n2RJAb7UDVjPmeYhN1n/2uYCuxLn9d6QX2yiXk9XG6RBiklLGiM3JOh8EQuQadRYK\ndakMvjK4v2qbALga34qrE0y5V8gcWs+xfdAkUIT1wQKBgQDvPetdo5u7CI0s4MUt\nSe2LxDhfd1SiDtUUAaMccWCCoYv6iP/A5trEzrhc4eYdV+AtxMo1hUxxqgxmAVwm\nWqYzY0vb2VAjdVdX5gWxJMtb+jyH0KUERhu7y83nsAddZYJDruEglfWg9DCXCYeE\nJtNZ3gAsaNA/X9Isgmzkl74ZwQKBgQDDNWPWbAzR4RW1tLgxtu/Ym00Pw9Zbopn+\ndyhSnjGf4UaFTe+7+8vi9FEH32wV3h5PJoOe/8MB26Wy9JSiEPmvhQZfDNmzqPDj\nX5L7Ze0RB9UB0eW4Wh6qxfSrOJwxP5AJgAJVQncTcT8xjGERvIEZl4tVukPApw8p\nx6VHl40NIwKBgGsXNHw9+D/InCkylBCpvwOJWhKhv+iq6waBlRnuRl0zIw2KtbEL\npXHjdvNcyzznURortLgwav+WNuaSRUWF3k+yawqGRDEbHXXjKTkaV01cviutYbCA\nEXoGyKylRyavgZf6eBu2BLV/mSCCy36EQqc/kKRQZqd3pQT3fPb2VcoBAoGASg0N\n04BnmJJ3Jtfoa8uGzreTEyDqRxa2riZLoJOsJYdStizrfXc2T+D4gDEMEnuRKdtl\nYMKLGkBVaj6Hx7cC0Md4tEPurc2vm8Fcw4tV0/kRn8AdEcL2EThI6U7vSWtgW4o4\n2Fj/TNvP6h7jj9PfcXLgg2PGYeW9xc6bbz4ZXtsCgYEAwTRNhNJt1Ns4cRa9eU1j\nu1vD+BiIIDPCUg7c4oT4H34GsieTJWMhiiKeiypvxeODjGNEMtgeyHFwND2HLuY7\nKot2GQtKgbgajjUz6hgfhB4aDWZ6FT93sLceeGvi6NWzZGb3MmcQOrCgPoikoW2v\n2PIEYIPMLU96yIEN5DExJ2w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraformroy@chaithu-project-463807.iam.gserviceaccount.com",
+  "client_id": "102057866470995096026",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraformroy%40chaithu-project-463807.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
